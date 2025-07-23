@@ -1,0 +1,30 @@
+{
+    "timestamp": "20250723_154948",
+    "location": {
+        "lat": 41.008920735004885,
+        "lng": 28.964080810546875
+    },
+    "inputs": {
+        "latitude": 41.008920735004885,
+        "longitude": 28.964080810546875,
+        "temperature": 43.92,
+        "humidity": 34.21,
+        "rainfall": 359.87,
+        "ph": 5.23,
+        "N": 50.0,
+        "P": 50.0,
+        "K": 50.0,
+        "soil_type": "Loamy Soil",
+        "crop_type": "rice",
+        "fertilizer_type": "Compost",
+        "pest_count": 5
+    },
+    "result": "olumsuz",
+    "probability": 20.0,
+    "recommendations": [
+        "Sıcaklık değerleri optimum aralıkta tutulmalıdır.",
+        "Nem seviyesi mahsul tipine göre ayarlanmalıdır.",
+        "Toprak pH'ı düzenli olarak kontrol edilmelidir.",
+        "Haşere kontrolü için düzenli gözlem yapılmalıdır."
+    ]
+}

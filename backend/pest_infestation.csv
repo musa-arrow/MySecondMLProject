@@ -1,0 +1,11 @@
+crop,soil,pest_count,infestation_level,description
+rice,Loamy Soil,2,düşük,Normal seasonal pest presence
+rice,Loamy Soil,10,orta,Some leaf damage observed
+rice,Loamy Soil,25,yüksek,"Severe pest outbreak, yield loss risk"
+wheat,Peaty Soil,1,düşük,No visible infestation
+wheat,Peaty Soil,8,orta,Moderate pest activity
+wheat,Peaty Soil,20,yüksek,"High pest density, urgent action needed"
+maize,Acidic Soil,0,düşük,No pests detected
+maize,Acidic Soil,7,orta,Early signs of infestation
+maize,Acidic Soil,18,yüksek,"Heavy pest attack, crop at risk"
+tomato,Loamy Soil,3,düşük,Minor pest presence

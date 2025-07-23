@@ -1,0 +1,30 @@
+{
+    "timestamp": "20250723_125206",
+    "location": {
+        "lat": 39.9334,
+        "lng": 32.8597
+    },
+    "inputs": {
+        "latitude": 39.9334,
+        "longitude": 32.8597,
+        "temperature": 50.0,
+        "humidity": 100.0,
+        "rainfall": 500.0,
+        "ph": 14.0,
+        "N": 49.94000000000001,
+        "P": 49.980000000000004,
+        "K": 50.0,
+        "soil_type": "Peaty Soil",
+        "crop_type": "arpa",
+        "fertilizer_type": "Gypsum",
+        "pest_count": 5
+    },
+    "result": "olumsuz",
+    "probability": 20.0,
+    "recommendations": [
+        "Sıcaklık değerleri optimum aralıkta tutulmalıdır.",
+        "Nem seviyesi mahsul tipine göre ayarlanmalıdır.",
+        "Toprak pH'ı düzenli olarak kontrol edilmelidir.",
+        "Haşere kontrolü için düzenli gözlem yapılmalıdır."
+    ]
+}

@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+pandas
+numpy
+requests
+folium
+streamlit-folium
+
+
+## Önemli Not
