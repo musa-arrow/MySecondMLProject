@@ -12,6 +12,7 @@ Tarım Asistanı, tarımsal verilerden yola çıkarak yapay zeka ile en uygun ü
 - Pandas & NumPy
 - Matplotlib / Seaborn
 - XGBoost
+
 📦 Kurulum
 git clone https://github.com/musa-arrow/MySecondMLProject.git
 cd MySecondMLProject
