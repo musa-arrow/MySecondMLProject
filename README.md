@@ -21,7 +21,9 @@ streamlit run app.py
 
 🌐 Canlı Uygulama
 https://mysecondmlproject-aw7fkwxyumwismwtk6xmgh.streamlit.app
+
 📁 Veri Seti
 Proje, İngilizce bir tarım veri seti kullanmaktadır. Ürün isimleri İngilizce olsa da arayüz tamamen Türkçe'dir.
+
 🤝 Katkı Sağlama
 Geri bildirimlere ve katkılara açığım! Fork'layarak kendi versiyonunuzu geliştirin ya da sorun bildirin.
