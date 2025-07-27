@@ -15,8 +15,11 @@ Tarım Asistanı, tarımsal verilerden yola çıkarak yapay zeka ile en uygun ü
 
 📦 Kurulum
 git clone https://github.com/musa-arrow/MySecondMLProject.git
+
 cd MySecondMLProject
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 
